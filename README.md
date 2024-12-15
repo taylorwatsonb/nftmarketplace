@@ -2,7 +2,7 @@
 
 A modern, user-friendly NFT marketplace built with Next.js, TypeScript, and Tailwind CSS. This platform enables users to discover, browse, and purchase NFTs in a secure and intuitive environment.
 
-![NFT Marketplace Preview](https://images.unsplash.com/photo-1645378999013-95abebf5f3c1?w=1200&h=400&fit=crop)
+
 
 ## Features
 
